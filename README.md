@@ -16,5 +16,7 @@ Este projeto é um podcast que explora o mundo fascinante das Inteligências Art
 O podcast foi um sucesso! Recebi feedback positivo dos ouvintes e estou animado para ver como eles serão inspirados a participar do desafio "Natural ou Fake Natty?".
 Acesse o link: 
 https://thatianamattos.github.io/Bootcamp-Nexa-Fundamentos-de-IA-Generativa-e-Claude-3/podcast.html
+
+https://app.wondercraft.ai/audio?url=https://wondercraft-podcast-assets.s3.eu-west-1.amazonaws.com/podcast_generation_tool_outputs/065bacd7-be6e-47c1-a108-126d66803d85.mp3
 ## 💭 Reflexão
 Foi um desafio interessante criar um podcast usando IA Generativa. Aprendi muito sobre as possibilidades e limitações dessas tecnologias e estou animado para explorar mais no futuro. Acredito que a IA Generativa tem o potencial de revolucionar a forma como criamos e consumimos conteúdo digital.
