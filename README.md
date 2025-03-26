@@ -1,22 +1,66 @@
-# Podcast "Natural ou Fake Natty?" - Uma Jornada Através da IA Generativa
 
-## 📒 Descrição
-Este projeto é um podcast que explora o mundo fascinante das Inteligências Artificiais Generativas. Inspirado no desafio "Natural ou Fake Natty?", o podcast busca desmistificar a IA Generativa e inspirar os ouvintes a criar conteúdos que desafiam os limites do realismo digital.
+# Podcast "Natural ou Fake Natty?" â€“ Uma Jornada AtravÃ©s da IA Generativa  
+### Podcast "Natural or Fake Natty?" â€“ A Journey Through Generative AI
 
-## 🤖 Tecnologias Utilizadas
-- **IA de Texto para Voz**: Para transformar o roteiro do podcast em áudio.
-- **Software de Edição de Áudio**: Para ajustar a qualidade do som e adicionar música de fundo e efeitos sonoros.
+Este projeto foi desenvolvido durante o Bootcamp Nexa â€“ Fundamentos de IA Generativa, com foco prÃ¡tico na criaÃ§Ã£o de conteÃºdo usando tecnologias de LLMs e IA de voz.
 
-## 🧐 Processo de Criação
-1. **Planejamento**: Decidi o tema do podcast e escrevi um roteiro detalhado.
-2. **Geração de Conteúdo**: Usei uma IA de Texto para Voz para transformar o roteiro em áudio e um software de edição de áudio para aprimorar a qualidade do som.
-3. **Publicação**: Publiquei o podcast em uma plataforma de podcasting e compartilhei o link no repositório do GitHub e nas redes sociais.
+This project was developed during the Nexa Bootcamp â€“ Foundations of Generative AI, focusing on hands-on experience with LLMs and voice-based AI content creation.
 
-## 🚀 Resultados
-O podcast foi um sucesso! Recebi feedback positivo dos ouvintes e estou animado para ver como eles serão inspirados a participar do desafio "Natural ou Fake Natty?".
-Acesse o link: 
-https://thatianamattos.github.io/Bootcamp-Nexa-Fundamentos-de-IA-Generativa-e-Claude-3/podcast.html
-https://app.wondercraft.ai/e/OOyusG1y
-https://app.wondercraft.ai/audio?url=https://wondercraft-podcast-assets.s3.eu-west-1.amazonaws.com/podcast_generation_tool_outputs/065bacd7-be6e-47c1-a108-126d66803d85.mp3
-## 💭 Reflexão
-Foi um desafio interessante criar um podcast usando IA Generativa. Aprendi muito sobre as possibilidades e limitações dessas tecnologias e estou animado para explorar mais no futuro. Acredito que a IA Generativa tem o potencial de revolucionar a forma como criamos e consumimos conteúdo digital.
+---
+
+## Objetivo | Goal
+
+Criar um podcast fictÃ­cio com roteiro, vozes e ediÃ§Ã£o, utilizando ferramentas de IA generativa para simular uma conversa real e fluida entre apresentadores e convidados.
+
+To create a fictional podcast with script, voices, and editing, using generative AI tools to simulate a natural and fluid conversation between hosts and guests.
+
+---
+
+## Tecnologias Utilizadas | Technologies Used
+
+- **Claude 3 (Anthropic)** â€“ GeraÃ§Ã£o de ideias, personagens e roteiro  
+- **ChatGPT** â€“ Apoio na revisÃ£o e brainstorming  
+- **ElevenLabs** â€“ GeraÃ§Ã£o de vozes realistas a partir de texto  
+- **Editor de Ãudio (Audacity)** â€“ EdiÃ§Ã£o final do episÃ³dio  
+- **GitHub Pages** â€“ Hospedagem e compartilhamento do projeto  
+
+---
+
+## Como Ouvir | How to Listen
+
+O episÃ³dio estÃ¡ disponÃ­vel [aqui](https://thatianamattos.github.io/Bootcamp-Nexa-Fundamentos-de-IA-Generativa-e-Claude-3/).
+
+The episode is available [here](https://thatianamattos.github.io/Bootcamp-Nexa-Fundamentos-de-IA-Generativa-e-Claude-3/).
+
+---
+
+## Estrutura do Projeto | Project Structure
+
+```
+/audios              # Arquivos de Ã¡udio do episÃ³dio
+/docs                # PÃ¡gina estÃ¡tica com explicaÃ§Ãµes
+README.md            # Este arquivo
+index.html           # PÃ¡gina principal do GitHub Pages
+```
+
+---
+
+## ContribuiÃ§Ã£o | Contributions
+
+Este Ã© um projeto autoral criado para fins de aprendizado. Se quiser colaborar ou trocar ideias, fique Ã  vontade para abrir uma issue ou me chamar no LinkedIn.
+
+This is a solo learning project. Feel free to contribute or reach out on LinkedIn!
+
+---
+
+## LicenÃ§a | License
+
+Este projeto estÃ¡ licenciado sob a [MIT License](LICENSE).
+
+---
+
+## Autora | Author
+
+**Thatiana Mattos**  
+Desenvolvedora Full-stack | Apaixonada por IA e educaÃ§Ã£o  
+[LinkedIn](https://www.linkedin.com/in/thatianamattos/)
